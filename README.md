@@ -39,4 +39,4 @@ The model was evaluated for fairness by comparing approval rates across demograp
 3. View predictions and analysis
 
 ## 👩‍💻 Author
-Your Name
+Nimshi I
